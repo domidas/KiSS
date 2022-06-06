@@ -1,5 +1,5 @@
 # KiSS
-The KeyStrokeSimulator is a Batch/JScript script that simulates user keyboard input.
+The KeyStrokeSimulator is a Batch/JScript script that emulates user keyboard input.
 
 This script is ran from the terminal.
 
