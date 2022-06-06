@@ -6,25 +6,25 @@
     cls
 	start chrome
 	    timeout /t 3 /nobreak >nul
-    %SendKeys% {Enter}
-    %SendKeys% {CAPSLOCK}
+	%SendKeys% {Enter}
+	%SendKeys% {CAPSLOCK}
 	%SendKeys% {h}
-    %SendKeys% {t}
-    %SendKeys% {t}
-    %SendKeys% {p}
-    %SendKeys% {s}
-    %SendKeys% {:}
-    %SendKeys% {/}
-    %SendKeys% {/}
-    %SendKeys% {w}
-    %SendKeys% {w}
-    %SendKeys% {w}
-    %SendKeys% {.}
-    %SendKeys% {y}
-    %SendKeys% {o}
-    %SendKeys% {u}
-    %SendKeys% {t}
-    %SendKeys% {u}
+	%SendKeys% {t}
+	%SendKeys% {t}
+	%SendKeys% {p}
+	%SendKeys% {s}
+	%SendKeys% {:}
+	%SendKeys% {/}
+	%SendKeys% {/}
+	%SendKeys% {w}
+	%SendKeys% {w}
+	%SendKeys% {w}
+	%SendKeys% {.}
+	%SendKeys% {y}
+	%SendKeys% {o}
+	%SendKeys% {u}
+	%SendKeys% {t}
+	%SendKeys% {u}
 	%SendKeys% {b}
 	%SendKeys% {e}
 	%SendKeys% {.}
@@ -51,7 +51,7 @@
 	%SendKeys% {X}
 	%SendKeys% {c}
 	%SendKeys% {Q}
-    %SendKeys% {ENTER}
+	%SendKeys% {ENTER}
 @end
 
 // 	creates variable for the WScript.Shell object
